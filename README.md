@@ -8,7 +8,9 @@
 
 <h2>Carregando <img width="20" height="20"src="https://github.com/RodrigoooSC/RodrigoooSC/blob/master/carregando.gif"></h2>
 <hr><br>
-<i>"O importante é não parar de questionar. A curiosidade tem sua própria razão de existir" - Albert Einstein</i><br>
+<i>"O importante é não parar de questionar. A curiosidade tem sua própria razão de existir" - Albert Einstein</i>
+<br>
+<br>
  
  
 
