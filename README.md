@@ -2,7 +2,7 @@
  
  <h1>Seja muito Bem-Vindo!</h1>
  
- Olá, sou o RodrigoSC estou cursando <strong>Sistemas para Internet</strong>,  empenhado na busca de conhrecimento e habilidades sobre:
+ Olá, sou o RodrigoSC estou cursando <strong>Sistemas para Internet</strong>,  empenhado na busca de conhecimento e  aprimoração sobre:
 
 <img src="https://github.com/RodrigoooSC/RodrigoooSC/blob/master/html.ico" ><img src="https://github.com/RodrigoooSC/RodrigoooSC/blob/master/css.ico" ><img src="https://github.com/RodrigoooSC/RodrigoooSC/blob/master/js.ico">
 
