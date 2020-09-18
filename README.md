@@ -1,12 +1,6 @@
 <img align="right" width="400" height="400" src="https://github.com/RodrigoooSC/RodrigoooSC/blob/master/imagem.jpg">
  
  <h1>Seja muito Bem-Vindo!</h1>
- 
- Olá, sou o RodrigoSC estou cursando <strong>Sistemas para Internet</strong>,  empenhado na busca de conhecimento e  aprimoração sobre:
-
-<img src="https://github.com/RodrigoooSC/RodrigoooSC/blob/master/html.ico" ><img src="https://github.com/RodrigoooSC/RodrigoooSC/blob/master/css.ico" ><img src="https://github.com/RodrigoooSC/RodrigoooSC/blob/master/js.ico">
-
-<h2>Carregando <img width="20" height="20"src="https://github.com/RodrigoooSC/RodrigoooSC/blob/master/carregando.gif"></h2><hr>
 <i>"O importante é não parar de questionar. A curiosidade tem sua própria razão de existir" - Albert Einstein</i><br><br>
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=link_do_seu_perfil_no_github)](https://github.com/RodrigoooSC)
