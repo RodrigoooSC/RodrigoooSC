@@ -11,7 +11,7 @@
 </a>
 
 
-### Obrigado(a) pela visita!  
+#### Obrigado(a) pela visita!  
 Sou iniciante na área tecnológica estou cursando Sistemas para Internet , concluindo o 4º Semestre.
 
 Apaixonado por programação 💻 sempre em busca de aperfeiçoar minhas habilidades e conhecimentos.
@@ -19,26 +19,25 @@ Apaixonado por programação 💻 sempre em busca de aperfeiçoar minhas habilid
 Trabalhando em alguns projetos pessoais, sempre correndo 🏃🏽‍♂️ atrás de meus sonhos 🐱‍🏍 e objetivos ✌.
 
 Desistir não é uma opção! A inspiração é fundamental para conseguirmos alcançar nossos objetivos na vida. Mesmo em meio a dificuldades, é preciso encontrar forças para continuar!
-<br/>  
+<br/>
 
-
+<!--
 ### Github Stats 
 <div>
  <a href ="https://github.com/rodrigooosc"> 
-  <img align ="center" src ="https://github-readme-stats.vercel.app/api?username=rodrigooosc&show_icons=true&theme=dark&include_all_commits=true&count_private=true" />
- </a> 
- <a href ="https://github.com/rodrigooosc"> 
+  <img align ="center" src ="https://github-readme-stats.vercel.app/api?username=rodrigooosc&show_icons=true&theme=dark&include_all_commits=true&count_private=true" />   
   <img align ="center" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=rodrigooosc&layout=compact&langs_count=7&theme=dark" />
  </a>
 </div> 
-  
-### Tecnologias  
+ --> 
+ 
+#### Tecnologias  
 <div style="display: inline_block">
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/csharp-original.svg" alt="C#" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="40" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="40" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="40" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="40" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/csharp-original.svg" alt="C#" height="40" />  
 </div> 
   
  
