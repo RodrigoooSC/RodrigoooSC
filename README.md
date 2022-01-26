@@ -22,17 +22,16 @@ Desistir não é uma opção! A inspiração é fundamental para conseguirmos al
 
 <br/>  
 
-## Github Stats  
-<div align="center">
-  <a href="https://github.com/rodrigooosc">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rodrigooosc&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rodrigooosc&layout=compact&langs_count=7&theme=dark"/>
-</div>
+# Github Stats 
+  <div align="center">
+  <a href="https://github.com/rafaballerini">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rafaballerini&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaballerini&layout=compact&langs_count=7&theme=dracula"/>
+</div> 
 
-<br/>  
+<br/>
 
-
-## Tecnologias  
+# Tecnologias  
 <div align="center">
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" />  
