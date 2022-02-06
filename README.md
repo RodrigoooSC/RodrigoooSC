@@ -14,7 +14,7 @@
 ### Obrigado(a) pela visita!  
 - Sou iniciante na área tecnológica estou cursando Sistemas para Internet , concluindo o 4º Semestre.
 
-- Apaixonado por programação 💻 sempre em busca de aperfeiçoar minhas habilidades e conhecimentos.
+- Apaixonado por programação 💻 sempre em busca de conhecimentos.
 
 - Trabalhando em alguns projetos pessoais, sempre correndo 🏃🏽‍♂️ atrás de meus sonhos 🐱‍🏍 e objetivos ✌.
 
