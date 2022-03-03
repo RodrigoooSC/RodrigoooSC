@@ -22,8 +22,8 @@
  
 ### Tecnologias
 <div>
-<img src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="35" />  
-<img src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="35" />
+<img src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="30" />  
+<img src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="30" />
 <img src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JS" height="30" />
 <img src="https://profilinator.rishav.dev/skills-assets/csharp-original.svg" alt="C#" height="30" />
 <img src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="30" />    
