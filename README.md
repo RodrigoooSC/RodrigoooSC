@@ -23,7 +23,7 @@
 
 - Desistir não é uma opção! A inspiração é fundamental para conseguirmos alcançar nossos objetivos na vida. Mesmo em meio a dificuldades, é preciso encontrar forças para          continuar!
  
-### Tecnologias
+### Tecnologias:
 <div>
  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
