@@ -38,9 +38,12 @@
  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
  <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
- <img src="https://img.shields.io/badge/VBA-1e6e42?style=for-the-badge&logo=VBA&logoColor=white" />
+ <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
  <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" /> 
-</div> 
+</div>
+<div>
+ <img src="https://img.shields.io/badge/VBA-1e6e42?style=for-the-badge&logo=VBA&logoColor=white" /> 
+</div>
 <hr/>
 <div align="center">
  <img src="https://media.giphy.com/media/hqU2KkjW5bE2v2Z7Q2/giphy.gif" width="80%" height="400" />
