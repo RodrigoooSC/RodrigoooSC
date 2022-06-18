@@ -12,7 +12,7 @@
 
 ### 🐱‍👤 Obrigado(a) pela visita!
 
-- Sou iniciante na área tecnológica estou cursando Sistemas para Internet , concluindo o 4º Semestre.
+- Sou iniciante na área tecnológica estou cursando Sistemas para Internet , concluindo o 5º Semestre.
 
 - Apaixonado por programação 💻 sempre em busca de conhecimentos.
 
