@@ -14,7 +14,7 @@
 
 - Sou um entusiasta da tecnologia, graduado em Sistemas para Internet
 
-- Apaixonado por programação 💻 sempre em busca de conhecimentos.
+- Admirador da programação 💻 em constante busca por novos aprendizados.
 
 - Trabalhando em alguns projetos pessoais, sempre correndo 🏃🏽‍♂️ atrás de meus sonhos 🐱‍🏍 e objetivos ✌.
 
